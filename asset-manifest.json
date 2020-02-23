@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.6e0d6ea6.chunk.css",
-    "main.js": "/website/static/js/main.13dc070a.chunk.js",
-    "main.js.map": "/website/static/js/main.13dc070a.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.6687b513.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.6687b513.js.map",
-    "static/css/2.ff4cff7f.chunk.css": "/website/static/css/2.ff4cff7f.chunk.css",
-    "static/js/2.dfa7cd95.chunk.js": "/website/static/js/2.dfa7cd95.chunk.js",
-    "static/js/2.dfa7cd95.chunk.js.map": "/website/static/js/2.dfa7cd95.chunk.js.map",
-    "index.html": "/website/index.html",
-    "precache-manifest.1233de5a24f6e4268cb161fda0c4051b.js": "/website/precache-manifest.1233de5a24f6e4268cb161fda0c4051b.js",
-    "service-worker.js": "/website/service-worker.js",
-    "static/css/2.ff4cff7f.chunk.css.map": "/website/static/css/2.ff4cff7f.chunk.css.map",
-    "static/css/main.6e0d6ea6.chunk.css.map": "/website/static/css/main.6e0d6ea6.chunk.css.map",
-    "static/js/2.dfa7cd95.chunk.js.LICENSE": "/website/static/js/2.dfa7cd95.chunk.js.LICENSE"
+    "main.css": "/unswwit.com/static/css/main.6e0d6ea6.chunk.css",
+    "main.js": "/unswwit.com/static/js/main.18d90f0e.chunk.js",
+    "main.js.map": "/unswwit.com/static/js/main.18d90f0e.chunk.js.map",
+    "runtime-main.js": "/unswwit.com/static/js/runtime-main.c1e9a694.js",
+    "runtime-main.js.map": "/unswwit.com/static/js/runtime-main.c1e9a694.js.map",
+    "static/css/2.ff4cff7f.chunk.css": "/unswwit.com/static/css/2.ff4cff7f.chunk.css",
+    "static/js/2.dfa7cd95.chunk.js": "/unswwit.com/static/js/2.dfa7cd95.chunk.js",
+    "static/js/2.dfa7cd95.chunk.js.map": "/unswwit.com/static/js/2.dfa7cd95.chunk.js.map",
+    "index.html": "/unswwit.com/index.html",
+    "precache-manifest.523917a7339c471773300a644a01247a.js": "/unswwit.com/precache-manifest.523917a7339c471773300a644a01247a.js",
+    "service-worker.js": "/unswwit.com/service-worker.js",
+    "static/css/2.ff4cff7f.chunk.css.map": "/unswwit.com/static/css/2.ff4cff7f.chunk.css.map",
+    "static/css/main.6e0d6ea6.chunk.css.map": "/unswwit.com/static/css/main.6e0d6ea6.chunk.css.map",
+    "static/js/2.dfa7cd95.chunk.js.LICENSE": "/unswwit.com/static/js/2.dfa7cd95.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6687b513.js",
+    "static/js/runtime-main.c1e9a694.js",
     "static/css/2.ff4cff7f.chunk.css",
     "static/js/2.dfa7cd95.chunk.js",
     "static/css/main.6e0d6ea6.chunk.css",
-    "static/js/main.13dc070a.chunk.js"
+    "static/js/main.18d90f0e.chunk.js"
   ]
 }
